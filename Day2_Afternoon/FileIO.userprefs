@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="FileIO\FileIO.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileIO\fileStreamOperations.cs">
+    <Files>
+      <File FileName="FileIO\Program.cs" Line="22" Column="6" />
+      <File FileName="FileIO\fileStreamOperations.cs" Line="22" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

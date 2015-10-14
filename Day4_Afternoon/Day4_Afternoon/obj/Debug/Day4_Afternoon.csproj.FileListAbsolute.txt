@@ -1,0 +1,6 @@
+c:\users\451785\documents\visual studio 2012\Projects\Day4_Afternoon\Day4_Afternoon\bin\Debug\Day4_Afternoon.exe.config
+c:\users\451785\documents\visual studio 2012\Projects\Day4_Afternoon\Day4_Afternoon\bin\Debug\Day4_Afternoon.exe
+c:\users\451785\documents\visual studio 2012\Projects\Day4_Afternoon\Day4_Afternoon\bin\Debug\Day4_Afternoon.pdb
+c:\users\451785\documents\visual studio 2012\Projects\Day4_Afternoon\Day4_Afternoon\obj\Debug\Day4_Afternoon.exe
+c:\users\451785\documents\visual studio 2012\Projects\Day4_Afternoon\Day4_Afternoon\obj\Debug\Day4_Afternoon.pdb
+c:\users\451785\documents\visual studio 2012\Projects\Day4_Afternoon\Day4_Afternoon\obj\Debug\Day4_Afternoon.csprojResolveAssemblyReference.cache

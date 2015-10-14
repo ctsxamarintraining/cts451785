@@ -1,0 +1,12 @@
+C:\Users\451785\Documents\Projects\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\451785\Documents\Projects\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\451785\Documents\Projects\FileIO\FileIO\obj\x86\Debug\FileIO.csprojResolveAssemblyReference.cache
+C:\Users\451785\Documents\Projects\FileIO\FileIO\obj\x86\Debug\FileIO.exe
+C:\Users\451785\Documents\Projects\FileIO\FileIO\obj\x86\Debug\FileIO.pdb
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\obj\x86\Debug\FileIO.exe
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\obj\x86\Debug\FileIO.pdb
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\bin\Debug\Newtonsoft.Json.dll
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\bin\Debug\Newtonsoft.Json.xml
+C:\Users\451785\Documents\Visual Studio 2012\Projects\FileIO\FileIO\obj\x86\Debug\FileIO.csprojResolveAssemblyReference.cache
