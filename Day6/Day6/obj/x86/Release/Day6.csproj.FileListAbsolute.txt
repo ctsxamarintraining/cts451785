@@ -1,0 +1,8 @@
+C:\Users\451785\AppData\Local\Temporary Projects\Day6\bin\Release\Day6.exe
+C:\Users\451785\AppData\Local\Temporary Projects\Day6\bin\Release\Day6.pdb
+C:\Users\451785\AppData\Local\Temporary Projects\Day6\obj\x86\Release\Day6.exe
+C:\Users\451785\AppData\Local\Temporary Projects\Day6\obj\x86\Release\Day6.pdb
+C:\Users\451785\Documents\Visual Studio 2010\Projects\Day6\Day6\obj\x86\Release\Day6.exe
+C:\Users\451785\Documents\Visual Studio 2010\Projects\Day6\Day6\obj\x86\Release\Day6.pdb
+C:\Users\451785\Documents\Visual Studio 2010\Projects\Day6\Day6\bin\Release\Day6.exe
+C:\Users\451785\Documents\Visual Studio 2010\Projects\Day6\Day6\bin\Release\Day6.pdb
